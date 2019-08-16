@@ -1,3 +1,5 @@
+# By HappySylveon :)
+
 import time
 
 a = ("normal")
@@ -372,6 +374,8 @@ while (count < 1):
         print("Weaknesses: Poison, Steel, Fairy", "\nResistances: Ghost, Dark", "\nImmunities: Psychic, Dragon")
     elif owo == ("types"):
         print(types)
+    elif owo == ("who"):
+        print("Made by HappySylveon")
 
 
     time.sleep(1)
